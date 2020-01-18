@@ -1,0 +1,62 @@
+html {
+    position: relative;
+    min-height: 100%;
+}
+  
+body {
+    background-color:#ca7676;
+    margin-bottom: 60px;
+}
+  
+ #wrap {
+    background-color:#262626;
+    color:#646464;
+}
+  
+#header {
+    background-color:rgb(68, 155, 177);
+    height:70px;
+}
+  
+#title {
+    color:#fff;
+    text-align:center;
+    font-family: fantasy;
+    padding-top:16px;
+}
+  
+#buttonArea{
+    margin-top:10px;
+}
+  
+.btn {
+    margin:3px;
+}
+  
+#gifArea {
+    margin-top:20px;
+}
+  
+.orangeBorder {
+    border-radius: 5px;
+    border: 2px solid rgb(255, 0, 234);
+}
+
+fieldset {
+    ;
+}
+  
+.submit {
+    background-color: #262626;
+    color:white;
+    border:1px solid #646464;
+}
+  
+  
+.credits {
+    font-size: .8em;
+}
+
+.clear {
+    clear:both;
+}
